@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/amaans1/AmaanS/edit/master
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[box model] (https://github.com/amaans1/AmaanS/edit/master/Box-Model/BoxModel.html)
+[box model] (https://github.com/amaans1/AmaanS/edit/master/Box_Model/BoxModel.html)
 
 ### Markdown
 
